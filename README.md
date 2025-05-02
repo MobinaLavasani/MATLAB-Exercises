@@ -1,4 +1,6 @@
-MATLAB Exercises 1
+MATLAB Exercises 
 
 Fatemeh Lavasani
 4002164036
+
+Dr.Jafari
